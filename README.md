@@ -17,9 +17,6 @@ Projeto desenvolvido para o meu pai que ama futebol. Com esse calendário, ele n
 
 <br>
 
-<p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
